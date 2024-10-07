@@ -33,13 +33,13 @@
     "@babel/preset-flow": "^7.24.7",
     "@babel/preset-typescript": "^7.24.7",
     "@babel/register": "^7.24.6",
-    "picocolors": "^1.0.1",
     "flow-parser": "0.*",
     "graceful-fs": "^4.2.4",
     "micromatch": "^4.0.7",
     "neo-async": "^2.5.0",
+    "picocolors": "^1.0.1",
     "recast": "^0.23.9",
-    "temp": "^0.9.4",
+    "tmp": "^0.2.3",
     "write-file-atomic": "^5.0.1"
   },
   "peerDependencies": {
